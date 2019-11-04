@@ -1,0 +1,5 @@
+# Data has been obtained from two sources
+# NIH National Cancer Institute office of Cancer Genomics - CTD^2 Data Portal
+  # This data was specifically taken from The Broad Institute - Cancer Therapeutics Response Portal (CTRP v1, 2013) Dataset
+# Catalogue of Somatic Mutations in Cancer (COSMIC) - COSMIC Mutation Data
+  # Data was taken only for cell lines within The Broad Institute data set
